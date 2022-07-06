@@ -1,6 +1,6 @@
 # Modeling the Societal Impact of Pharmaceutical Products for ESG Sustainability Reporting
 
-![ESG](https://github.com/woonsupkim/BurdenofCare/blob/ESG.png)
+![ESG](https://github.com/woonsupkim/BurdenofCare/blob/main/ESG.png)
 
 ## Pharmaceutical product contribution to society is underexplored in current ESG sustainability reporting
 
