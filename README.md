@@ -2,8 +2,7 @@
 
 | Investor Relevant  | Industry Pursued |
 | :------------- | :------------- |
-|Investors demand greater awareness and positive impact of companies in their interactions with society  
-|Top pharmaceutical companies are pursuing societal impact calculations|
+|Investors demand greater awareness and positive impact of companies in their interactions with society  |Top pharmaceutical companies are pursuing societal impact calculations|
 
 
 # Investor 
