@@ -1,4 +1,5 @@
 # Modeling the Societal Impact of Pharmaceutical Products for ESG Sustainability Reporting
+![Happy Christmas](ESG.png)
 
 ## Pharmaceutical product contribution to society is underexplored in current ESG sustainability reporting
 
