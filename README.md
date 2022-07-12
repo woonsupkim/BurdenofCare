@@ -10,3 +10,5 @@
 ![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/AbouttheData/Slide5.PNG) 
 ![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/AbouttheData/Slide6.PNG) 
 ![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/AbouttheData/Slide7.PNG) 
+![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/AbouttheData/Slide8.PNG) 
+![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/AbouttheData/Slide9.PNG) 
