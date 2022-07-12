@@ -3,4 +3,4 @@
 
 ![1](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/1.png)
 ![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/2.png) 
-![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/About the Data/Slide1.png) 
+![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/AbouttheData/Slide1.png) 
