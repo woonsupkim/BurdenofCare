@@ -12,4 +12,4 @@
 ![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/AbouttheData/Slide7.PNG) 
 ![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/AbouttheData/Slide8.png) 
 ![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/AbouttheData/Slide9.png) 
-![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/AbouttheData/Slide10.png) 
+![2](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/AbouttheData/Slide10.PNG) 
