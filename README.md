@@ -1,4 +1,4 @@
-# Societal Impact of Pharmaceutical Products for ESG Reporting
+# Societal Impact of Pharma Products for ESG Reporting
 
 
 ![1](https://github.com/woonsupkim/BurdenofCare/blob/main/PPT/AboutFiles/Slide1.PNG)
